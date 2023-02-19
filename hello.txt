@@ -1,2 +1,1 @@
-buat file hello.txt
-yeye
+buat file hello.txt dulu
